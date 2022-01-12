@@ -28,5 +28,6 @@ Duplicate title inputs were removed within each dictionary
 Cluster lists were combined into a list_of_lists dictionary.
 Finally a for loop was created to search for a selected movie within the different list to output a random 10 movies from the same cluster.
 
-
+The dataset can be found at https://drive.google.com/file/d/1Duyz5ATlLHzwMidj15bWVnWHpdE4aRXn/view. 
+- We used the dataset named film_imdb_match.csv.
 
