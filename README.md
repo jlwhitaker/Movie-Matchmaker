@@ -10,11 +10,10 @@ Our goal was to create an application that would:
 
 - "_Analyzing Gender Bias within Narrative Tropes_": aclanthology.org/2020.nlpcss-1.23/
 - Video/Slidedeck from the above GitHub: slideslive.com/38940608/analyzing-gender-bias-within-narrative-tropes
+- The dataset can be found here: https://drive.google.com/file/d/1Duyz5ATlLHzwMidj15bWVnWHpdE4aRXn/view. 
 
 This article was the inspiration for the project and provided much of the data that we initially used. 
 The dataset that we started with was "_film_imdb_match.csv_", which contained 2,733,577 data points - more than enough data for us to use. 
-
-The dataset can be found at https://drive.google.com/file/d/1Duyz5ATlLHzwMidj15bWVnWHpdE4aRXn/view. 
 
 ## Data Cleaning and Preprocessing
 To clean our data to use in our model, we performed the following:
