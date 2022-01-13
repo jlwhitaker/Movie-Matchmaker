@@ -30,7 +30,7 @@ From there we set the _Trope_ column as our index and ran get_dummies to convert
 To create our model, we first ran PCA and t-SNE methods to reduce the number of features, and then clustered the data using KMeans.
 The resulting model clustered the data into 7 groups. 
 
-# Providing Movie Recommendations 
+## Providing Movie Recommendations 
 In order to provide recommendations, the clusters were first appended into separate dictionaries.
 We removed duplicate title inputs from within each dictionary, then added each cluster list to a master _list_of_lists_ dictionary.
 Finally, a for loop was created to run through each cluster list to search for a user-selected movie title, and output a random sample of 10 movie titles from the same cluster.
