@@ -6,10 +6,10 @@ Our goal was to create an application that would:
 - → provide recommendations based on a machine learning model for other movies to watch next
 
 ## Data Sources
-**Analysing Gender Bias in Narrative Tropes:** github.com/dhruvilgala/tvtropes
+**Analysing Gender Bias in Narrative Tropes:** https://github.com/dhruvilgala/tvtropes
 
-- "_Analyzing Gender Bias within Narrative Tropes_": aclanthology.org/2020.nlpcss-1.23/
-- Video/Slidedeck from the above GitHub: slideslive.com/38940608/analyzing-gender-bias-within-narrative-tropes
+- "_Analyzing Gender Bias within Narrative Tropes_": https://aclanthology.org/2020.nlpcss-1.23/
+- Video/Slidedeck from the above GitHub: https://slideslive.com/38940608/analyzing-gender-bias-within-narrative-tropes
 - The dataset can be found here: https://drive.google.com/file/d/1Duyz5ATlLHzwMidj15bWVnWHpdE4aRXn/view. 
 
 This article was the inspiration for the project and provided much of the data that we initially used. 
@@ -37,4 +37,9 @@ Finally, a for loop was created to run through each cluster list to search for a
 
 You can view the **Movie Matchmaker** website here: https://jlwhitaker.github.io/Movie-Matchmaker/
 
+## Contacts 
 
+**Angela Angulo** -- anguloag@vcu.edu
+**Jessica Whitaker** -- jlwhitaker92@gmail.com
+**Stephen Rigney** -- stephenrigneySMR@gmail.com
+**Elizabeth Lautenslager** -- Liz.Lautenslager@gmail.com
