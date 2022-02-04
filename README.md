@@ -40,6 +40,9 @@ You can view the **Movie Matchmaker** website here: https://jlwhitaker.github.io
 ## Contacts 
 
 **Angela Angulo** -- anguloag@vcu.edu
+
 **Jessica Whitaker** -- jlwhitaker92@gmail.com
+
 **Stephen Rigney** -- stephenrigneySMR@gmail.com
+
 **Elizabeth Lautenslager** -- Liz.Lautenslager@gmail.com
